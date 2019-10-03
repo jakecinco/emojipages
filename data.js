@@ -1,12 +1,5 @@
 const emojiItems = [
     {
-        title: "Angels and Demons",
-        author: "Dan Brown",
-        emojiImgs: "👼👼👼😈😈😈",
-        genres: ["mystery", "thriller"],
-        year: 2000
-    },
-    {
         title: "Animal Farm",
         author: "George Orwell",
         emojiImgs: "🐷🐰🐭🐴🐮🐔",
@@ -79,6 +72,12 @@ const emojiItems = [
         emojiImgs: "👽👾🌎⚔️💣",
         genres: ["science-fiction","war","space","thriller"],
         year: 1898
+    },{
+        title: "To Kill A Mocking Bird",
+        author: "Harper Lee",
+        emojiImgs: "🔪🔪☠🐦☠",
+        genres: ["classic","fiction"],
+        year: 1960
     },{
         title: "Winnie the Pooh",
         author: "A. A. Milne",
